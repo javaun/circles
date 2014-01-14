@@ -11,7 +11,7 @@ You will need to install [Processing](http://processing.org), a simple language 
 
 **Also recommended:** if it's a nice day, turn off the computer and GO OUTSIDE!
 
-![circlces screencap](https://raw.github.com/javaun/circles/master/circles.png)
+![circles screencap](https://raw.github.com/javaun/circles/master/circles.png)
 
 ## Play with the final app 
 
@@ -29,7 +29,7 @@ Processing is fun, there are just a few things to understand here. The "setup" f
     
     } 
 
-"keyPressed" is an I/O listener funtion looking for keyboard events. (see below)
+"keyPressed" is an I/O listener function looking for keyboard events. (see below)
 
 ## Now build it
 
