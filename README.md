@@ -9,6 +9,8 @@ You will need to install [Processing](http://processing.org), a simple language 
 
 **Recommended age: 3+**
 
+**Also recommended:** if it's a nice day, turn off the computer and GO OUTSIDE!
+
 ## Play with the final product
 
 Paste the code into the Processing IDE and click run. This simple app let's you paint circles on the screen by pressing the mouse button (or track pad) and dragging the cursor. This version allows you to change the "brush" color by pressing keys (i.e. "b" for blue, "r" for red). 
