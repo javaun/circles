@@ -13,7 +13,9 @@ You will need to install [Processing](http://processing.org), a simple language 
 
 ## Play with the final app 
 
-Paste the code into the Processing IDE and click run. Get familiarity before involving your kid. This simple app let's you paint circles on the screen by pressing the mouse button (or track pad) and dragging the cursor. This version allows you to change the "brush" color by pressing keys (i.e. "b" for blue, "r" for red). 
+After installing Processing on your machine, clone this repo to your Processing save directory (often under user/Documents) and double click to open the .pde file in the IDE. (Or, you can just paste the code into a new editor window in the Processing IDE). Click Run (play button) to launch the runtime. 
+
+First, get familiarity with the code and running app before involving your kid. This simple app let's you paint circles on the screen by pressing the mouse button (or track pad) and dragging the cursor. This version allows you to change the "brush" color by pressing keys (i.e. "b" for blue, "r" for red). 
 
 Processing is fun, there are just a few things to understand here. The "setup" function sets initial app state. The "draw" function redraws the canvas (about 30 frames/sec, depends on settings and also processor speed).
 
