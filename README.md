@@ -1,4 +1,3 @@
-
 Circles: A Simple Paint Program for Curious Toddlers
 ===================================
 This is a simple paint program I wrote with the assistance of my toddler. It doesn't teach kids to code, but rather shows them that computers can be used to create and involves them in the process.
@@ -6,7 +5,7 @@ This is a simple paint program I wrote with the assistance of my toddler. It doe
 ## Requirements
 You will need to install [Processing](http://processing.org), a simple language designed to make programming accessible to designers. 
 
-** Aside: ** Processing is a fun and useful language. The main Processing IDE runs on the JVM, so if you know Java, any Java library can be used in Processing. Or, simply use Processing to create visualizations. There are Procssing libraries for computer vision on the Microsoft Kinect. If you want to experiment with hardware, the Arduino IDE uses Processing syntax and compiles to C. 
+**Aside:** Processing is a fun and useful language. The main Processing IDE runs on the JVM, so if you know Java, any Java library can be used in Processing. Or, simply use Processing to create visualizations. There are Procssing libraries for computer vision on the Microsoft Kinect. If you want to experiment with hardware, the Arduino IDE uses Processing syntax and compiles to C. 
 
 
 ## Play with the Final Product
