@@ -15,7 +15,7 @@ You will need to install [Processing](http://processing.org), a simple language 
 
 ## Play with the final app 
 
-After installing Processing on your machine, clone this repo to your Processing save directory (often under user/Documents) and double click to open the .pde file in the IDE. (Or, if you don't know git, just [paste the code](https://github.com/javaun/circles/blob/master/circles.pde) into a new editor window in the Processing IDE). Click Run (play button) to launch the runtime. 
+After installing Processing on your machine, clone this repo to your Processing save directory (often under user/Documents) and double click to open the .pde file in the IDE. Or, if you don't know git, just [paste the code](https://github.com/javaun/circles/blob/master/circles.pde) into a new editor window in the Processing IDE. Click Run (play button) to launch the runtime. 
 
 First, get familiarity with the code and running app before involving your kid. This simple app let's you paint circles on the screen by pressing the mouse button (or track pad) and dragging the cursor. This version allows you to change the "brush" color by pressing keys (i.e. "b" for blue, "r" for red). 
 
@@ -39,7 +39,7 @@ Start feature by feature. I started by simply drawing a static circle on the can
 
 Let your kid play with the app after every edit, drawing on the screen. I tell them  "let's change it" and offer suggestions. As you make simple code changes, announce out loud what you're doing, i.e. "Ok, IF we push the 'b' key, THEN change the color to blue..." Your kids won't understand the code, but they will see that you're using very basic logic to create the app and have ultimate control over it.
 
-Some ideas. We added the ability to change "brush" color based on key press. I let the kids [pick the colors](http://www.colorpicker.com/) and pick the key bindings, which is why some make no sense (i.e. "x" for purple). We added an "erase" key. 
+Some ideas. We added the ability to change "brush" color based on key press. I let the kids [pick the colors](http://www.colorpicker.com/) and pick the key bindings, which is why some make no sense to adults (i.e. "x" for purple). We added an "erase" key. 
 
     // Key presses change the color.
       void keyPressed() {
