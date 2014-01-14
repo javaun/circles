@@ -23,7 +23,7 @@ Processing is fun, there are just a few things to understand here. The "setup" f
     
         ellipse(mouseX, mouseY, 80, 80);
     
-  } 
+    } 
 
 "keyPressed" is an I/O listener funtion looking for keyboard events. (see below)
 
