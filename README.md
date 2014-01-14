@@ -1,6 +1,6 @@
 Circles: A Simple Paint Program for Curious Toddlers
 ===================================
-This is a simple paint program I wrote with the assistance of my toddler. It doesn't teach kids to code, but rather shows them that computers can be used to create and involves them in the process.
+This is a simple paint program I wrote with the assistance of my toddler, who also chose the name. It doesn't teach kids to code, but rather shows them that computers can be used to create and involves them in the process. 
 
 ## Requirements
 You will need to install [Processing](http://processing.org), a simple language designed to make programming accessible to designers. 
