@@ -7,6 +7,7 @@ You will need to install [Processing](http://processing.org), a simple language 
 
 **Aside:** Processing is a fun and useful language. The main Processing IDE is written in Java and runs on the JVM, so if you know Java, any Java library can be used in Processing. You can use Processing to create visualizations. There are Procssing libraries for computer vision on the Microsoft Kinect. If you want to experiment with hardware, the Arduino IDE uses Processing syntax and compiles to C. 
 
+**Recommended age: 3+**
 
 ## Play with the final product
 
