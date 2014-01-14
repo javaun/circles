@@ -39,7 +39,7 @@ Start feature by feature. I started by simply drawing a static circle on the can
 
 Let your kid play with the app after every edit, drawing on the screen. I tell them  "let's change it" and offer suggestions. As you make simple code changes, announce out loud what you're doing, i.e. "Ok, IF we push the 'b' key, THEN change the color to blue..." Your kids won't understand the code, but they will see that you're using very basic logic to create the app and have ultimate control over it.
 
-Some ideas. We added the ability to change "brush" color based on key press. I let the kids pick most of the key bindings, so that's why some make no sense (i.e. "x" for purple). We added an "erase" key. 
+Some ideas. We added the ability to change "brush" color based on key press. I let the kids [pick the colors](http://www.colorpicker.com/) and pick the key bindings, which is why some make no sense (i.e. "x" for purple). We added an "erase" key. 
 
     // Key presses change the color.
       void keyPressed() {
@@ -55,6 +55,6 @@ Some ideas. We added the ability to change "brush" color based on key press. I l
           ...
       }
 
-We added a variable for diameter of the circle and then +/- as key bindings to increase/decrease the brush diameter. But I rolled it back when my kid wasn't paying attention. That happens.
+We also added a variable for diameter of the circle and then +/- as key bindings to increase/decrease the brush diameter. But I rolled it back when my kid wasn't paying attention. That happens.
 
 HAVE FUN, MOVE FAST, AND BREAK STUFF!
