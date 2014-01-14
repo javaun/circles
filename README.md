@@ -37,7 +37,7 @@ When you understand what this simple script does, it's time to build it yourself
 
 Start feature by feature. I started by simply drawing a static circle on the canvas. I told mine we could make it move, so we attached the circle to mouseover and made it draw whenever you moved the mouse/trackpad. Then we bound it to a click, so you could effectively "lift the brush" instead of a continuous line. 
 
-Let your kid play with the app after every edit, drawing on the screen. I tell them  "let's change it" and offer suggestions. As you make simple code changes, announce out loud what you're doing, i.e. "Ok, IF we push the 'b' key, THEN change the color to blue..." Your kids won't understand the code, but they will sees that you're using very basic logic to create the app and have ultimate control over it.
+Let your kid play with the app after every edit, drawing on the screen. I tell them  "let's change it" and offer suggestions. As you make simple code changes, announce out loud what you're doing, i.e. "Ok, IF we push the 'b' key, THEN change the color to blue..." Your kids won't understand the code, but they will see that you're using very basic logic to create the app and have ultimate control over it.
 
 Some ideas. We added the ability to change "brush" color based on key press. I let the kids pick most of the key bindings, so that's why some make no sense (i.e. "x" for purple). We added an "erase" key. 
 
@@ -55,6 +55,6 @@ Some ideas. We added the ability to change "brush" color based on key press. I l
           ...
       }
 
-We added a variable for "brush" (circle) size and +/- as key bindings to increase/decrease the brush diameter. But I rolled it back when my kid wasn't paying attention. 
+We added a variable for diameter of the circle and then +/- as key bindings to increase/decrease the brush diameter. But I rolled it back when my kid wasn't paying attention. That happens.
 
 HAVE FUN, MOVE FAST, AND BREAK STUFF!
