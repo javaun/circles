@@ -11,6 +11,8 @@ You will need to install [Processing](http://processing.org), a simple language 
 
 **Also recommended:** if it's a nice day, turn off the computer and GO OUTSIDE!
 
+![circlces screencap](https://raw.github.com/javaun/circles/master/circles.png)
+
 ## Play with the final app 
 
 After installing Processing on your machine, clone this repo to your Processing save directory (often under user/Documents) and double click to open the .pde file in the IDE. (Or, you can just paste the code into a new editor window in the Processing IDE). Click Run (play button) to launch the runtime. 
