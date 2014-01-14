@@ -11,9 +11,9 @@ You will need to install [Processing](http://processing.org), a simple language 
 
 **Also recommended:** if it's a nice day, turn off the computer and GO OUTSIDE!
 
-## Play with the final product
+## Play with the final app 
 
-Paste the code into the Processing IDE and click run. This simple app let's you paint circles on the screen by pressing the mouse button (or track pad) and dragging the cursor. This version allows you to change the "brush" color by pressing keys (i.e. "b" for blue, "r" for red). 
+Paste the code into the Processing IDE and click run. Get familiarity before involving your kid. This simple app let's you paint circles on the screen by pressing the mouse button (or track pad) and dragging the cursor. This version allows you to change the "brush" color by pressing keys (i.e. "b" for blue, "r" for red). 
 
 Processing is fun, there are just a few things to understand here. The "setup" function sets initial app state. The "draw" function redraws the canvas (about 30 frames/sec, depends on settings and also processor speed).
 
@@ -27,13 +27,13 @@ Processing is fun, there are just a few things to understand here. The "setup" f
 
 "keyPressed" is an I/O listener funtion looking for keyboard events. (see below)
 
-## Now build it yourself
+## Now build it
 
 When you understand what this simple script does, it's time to build it yourself with the aid of your kids. 
 
 Start feature by feature. I started by simply drawing a static circle on the canvas. I told mine we could make it move, so we attached the circle to mouseover and made it draw whenever you moved the mouse/trackpad. Then we bound it to a click, so you could effectively "lift the brush" instead of a continuous line. 
 
-Let your kid play with the app after every edit, drawing on the screen. I tell them  "let's change it" and offer suggestions. They won't understand the code, but they will sees that you're doing something to change it and are in control of the app you're building. 
+Let your kid play with the app after every edit, drawing on the screen. I tell them  "let's change it" and offer suggestions. As you make simple code changes, announce out loud what you're doing, i.e. "Ok, IF we push 'b' change the color to blue..." Your kids won't understand the code, but they will sees that you're doing something to change it and are in control of the app you're building. 
 
 Some ideas. We added the ability to change "brush" color based on key press. I let the kids pick most of the key bindings, so that's why some make no sense (i.e. "x" for purple). We added an "erase" key. 
 
