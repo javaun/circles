@@ -1,5 +1,4 @@
 
-
 void setup() {
   size(1440,900);
   smooth();
@@ -11,9 +10,7 @@ void setup() {
 void draw() {
   if (mousePressed) {
     
-    //fill(0);
     ellipse(mouseX, mouseY, 80, 80);
-   // background(204);
     
   }  
   
