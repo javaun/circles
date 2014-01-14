@@ -1,4 +1,3 @@
-
 // placeholder variable. You can sub in for x, y values of the ellipse or "brush"
 int diameter = 80;
 
@@ -54,12 +53,12 @@ void keyPressed() {
     fill(255, 0, 208);
       
   // purple 
-    if (key =='x' || key == 'X')
-      fill (132, 0, 255 );
+  if (key =='x' || key == 'X')
+    fill (132, 0, 255 );
       
   // black
-    if (key == 's' || key == 'S')
-      fill (0,0,0 );
+  if (key == 's' || key == 'S')
+    fill (0,0,0 );
       
 }
 
